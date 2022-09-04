@@ -9,8 +9,7 @@ $ g++ day1.cc && ./a.out
 ```
 ### Day 2 - Dive
 ---
-This one was actually simpler than day1 chal in my opinion.
-
+This one was actually simpler than day1 chal in my opinion. I guess I could've written the code more efficiently, maybe less repitition of code.
 ```console
 $ g++ day2.cc && ./a.out
 ```
